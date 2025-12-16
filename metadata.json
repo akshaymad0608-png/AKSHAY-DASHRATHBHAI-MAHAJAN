@@ -1,0 +1,7 @@
+{
+  "name": "NutriVoice - AI Diet Coach",
+  "description": "A modern diet assistant powered by Gemini Live API for real-time voice coaching.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
